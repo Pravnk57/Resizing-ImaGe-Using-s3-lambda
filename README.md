@@ -7,7 +7,6 @@ This project focuses on building an automated system for image processing and ma
 
 # Key Features:
 1.Image processing automation: Automatically resize and optimize images upon upload.
-
 2.Secure storage: Store processed images in a secure and reliable S3 bucket.
 3.Real-time notifications: Receive immediate updates about image processing via SNS.
 4.Scalable architecture: Design for scalability to handle image processing demands.
