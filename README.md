@@ -21,6 +21,9 @@ This project focuses on building an automated system for image processing and ma
 ![image](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/71ce82d5-2297-4830-a5bb-fe0cb612e506)
 
 
+## Steps :
+### Step 1 :
+### Creating Source and Designation s3 Buckets :
 
 
 
