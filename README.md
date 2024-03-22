@@ -26,7 +26,8 @@ This project focuses on building an automated system for image processing and ma
 
 1. Navigate to the S3 Console.
 2. Follow the Outlined Steps below.
-![s3_1st_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/99a962c2-4457-4ba4-b93c-0f406b24bc10)
+![1st_step-s3](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/7a02a061-751b-4df0-ade1-7bff7498151c)
+
 
 
    
