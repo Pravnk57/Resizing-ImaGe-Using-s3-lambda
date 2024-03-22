@@ -1,4 +1,4 @@
-![2nd_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/1169ee63-1dd9-4d99-b4ae-ea5c87887bd8)# Automated-Image-Resizing using aws services
+# Automated-Image-Resizing using aws services
 
 
 # Project Description: 
