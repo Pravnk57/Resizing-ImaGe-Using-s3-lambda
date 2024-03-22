@@ -1,4 +1,4 @@
-# Automated-Image-Resizing using aws services
+![2nd_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/1169ee63-1dd9-4d99-b4ae-ea5c87887bd8)# Automated-Image-Resizing using aws services
 
 
 # Project Description: 
@@ -28,6 +28,7 @@ This project focuses on building an automated system for image processing and ma
 2. Follow the Outlined Steps below.
 ![1st_step-s3](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/7a02a061-751b-4df0-ade1-7bff7498151c)
 
+![2nd_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/4da8b875-df01-4ff9-9e89-7d7d8916de11)
 
 
    
