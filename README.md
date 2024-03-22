@@ -1,4 +1,4 @@
-
+![image](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/9f2565bf-ba4d-4c45-b800-d7c168a19a81)
 # Automated-Image-Resizing using aws services
 
 
@@ -24,6 +24,12 @@ This project focuses on building an automated system for image processing and ma
 ## Steps :
 ### Step 1 :
 ### Creating Source and Designation s3 Buckets :
+
+1. Navigate to the S3 Console.
+2. Follow the Outlined Steps below.
+
+![Uploading image.png…]()
+   
 
 
 
