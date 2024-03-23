@@ -114,6 +114,17 @@ This project focuses on building an automated system for image processing and ma
 arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 ```
 
+13. After done all the actions above , now we can now first deploy and then test our code.
+![image (19)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/bf22304a-99ba-458d-ad6c-204eaf2adc23)
+
+![image (20)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/14146b60-0671-4c17-904f-23795fa3edd2)
+
+![image (21)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/eda6a5a7-6b09-4630-8c3c-e10fb4b88177)
+
+14. It will show some results like below , It runs successfully but return some error because we still not upload the images in S3 yet.
+
+![22 03 2024_13 27 07_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5208f04a-f5d6-4cba-828a-79cd075ca242)
+
 
 
 
