@@ -43,6 +43,10 @@ This project focuses on building an automated system for image processing and ma
 1. Navigate to the SNS console.
 2. Follow the Outlined Steps below.
  ![topic_step5](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5946d74c-2084-461d-ad22-a207653fceb0)
+
+  ![resize_t0pic_6step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/76d08162-6ec5-4581-8259-e3de9936509f)
+![step07](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/77614e9f-8c37-4895-9b9a-7855a3d724f1)
+
   
 
 
