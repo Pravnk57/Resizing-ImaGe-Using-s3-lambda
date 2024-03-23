@@ -47,8 +47,11 @@ This project focuses on building an automated system for image processing and ma
   ![resize_t0pic_6step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/76d08162-6ec5-4581-8259-e3de9936509f)
 ![step07](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/77614e9f-8c37-4895-9b9a-7855a3d724f1)
 
-  ![image (2)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/2448c898-0db2-4daf-8ce7-c20b2c2f5c41)
+ ![image (3)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/0022fb89-156d-4707-bd44-59c96838ee2e)
 
+3. Scroll down and Click "Create subscription" <br>
+4. After this , you will receive some mail for Subscription Confirmation and you have to confirm that.<br>
+5. You can use any other protocols also like SQS, HTTP, SMS etc .,<br>
 
 
 
