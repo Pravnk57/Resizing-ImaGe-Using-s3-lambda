@@ -110,7 +110,9 @@ This project focuses on building an automated system for image processing and ma
 ![image (18)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/85334f7f-8dd2-4caf-8a48-974f17d4a825)
 12.You can copy the arn from below.
 
-arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1 
+```
+arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
+```
 
 
 
