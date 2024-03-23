@@ -126,6 +126,17 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 ![22 03 2024_13 27 07_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5208f04a-f5d6-4cba-828a-79cd075ca242)
 
 
+### Step 4 :
+### Results :
+
+1. Navigate to the S3 Console.
+2. Upload Some images in  Source Bucket.
+
+![image (22)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/56f75dd8-be8e-4ba3-8200-1be636eaec43)
+
+![image (23)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/ef1dd244-eb67-4594-888c-714c18142a0d)
+
+![image (24)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/d151e2a1-eef4-4695-aead-a1660a40976f)
 
 
 
