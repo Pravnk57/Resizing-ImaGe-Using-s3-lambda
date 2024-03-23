@@ -30,6 +30,8 @@ This project focuses on building an automated system for image processing and ma
 
 ![2nd_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/4da8b875-df01-4ff9-9e89-7d7d8916de11)
 
+![step3](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/39bd624b-d906-4474-bc49-d7f56d6af461)
+
 
    
 
