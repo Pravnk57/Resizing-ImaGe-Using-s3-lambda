@@ -31,9 +31,19 @@ This project focuses on building an automated system for image processing and ma
 ![2nd_step](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/4da8b875-df01-4ff9-9e89-7d7d8916de11)
 
 ![step3](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/39bd624b-d906-4474-bc49-d7f56d6af461)
+3. Create the destination bucket using the same steps and name it with a unique name.
+![4thstep](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/d2b7cac3-937d-4d93-88d1-5980a00b99a2)
 
 
-   
+4. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
+
+5. ### Step 2 :
+### Creating the SNS Notification :
+
+1. Navigate to the SNS console.
+2. Follow the Outlined Steps below.
+ ![topic_step5](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5946d74c-2084-461d-ad22-a207653fceb0)
+  
 
 
 
