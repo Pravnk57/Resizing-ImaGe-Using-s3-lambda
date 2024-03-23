@@ -53,7 +53,19 @@ This project focuses on building an automated system for image processing and ma
 4. After this , you will receive some mail for Subscription Confirmation and you have to confirm that.<br>
 5. You can use any other protocols also like SQS, HTTP, SMS etc .,<br>
 
+![22 03 2024_13 02 26_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/72330bf8-b58b-41de-b29a-0e83a6dfb778)
+![22 03 2024_13 02 53_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/79ee6ac6-32d6-4283-a878-b86518b19307)
 
+### Step 3 :
+### Creating the Lambda :
+
+1. Navigate to the Lambda Console.
+2. Follow the Outlined steps below.
+![image (2)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/efe6fc7b-8d85-4c01-afae-a4cb707cdc65)
+
+3. Now create a Function by selecting Author from scratch.Give a function name and choose python 3.9.
+   
+![create function_2](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5595fd85-b593-47a7-836c-ec1f80a0efdb)
 
 
 
