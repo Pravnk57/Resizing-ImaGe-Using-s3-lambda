@@ -67,6 +67,10 @@ This project focuses on building an automated system for image processing and ma
    
 ![create function_2](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/5595fd85-b593-47a7-836c-ec1f80a0efdb)
 
+3. Now replace the default code with the risizing-image.py and deploy the changes , Don't test the code now we have to do some more actions before testing.
+4. After that , We have to give some permission for our Lambda Function to do our process (resizing) , For that navigate to the IAM Console and follow the below steps.
+
+
 
 
 
