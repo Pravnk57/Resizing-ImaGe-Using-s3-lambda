@@ -97,9 +97,20 @@ This project focuses on building an automated system for image processing and ma
 ![image (14)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/b4f8a26a-632f-4663-8400-66f923df7775)
 
 ![image (15)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/0d9946fc-e8f8-420c-9beb-1b3364e17f67)
+![image (16)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/92f26cc6-d117-44fe-81e9-4219e8532563)
 
+7. Now we have to go to code section , and scroll down to  layers.<br>
+8. We have to add layer .<br>
+9. May be you can think , why ?<br>
+10. It's because for resize the image we upload in our source S3 bucket , We need a python library called pillow in our code to resize the image . We can manually add Pillow library also, But it's very time consuming and you have to do lot more , Instead of manually adding pillow library we are going to use layers for Some easy action.<br>
+11. Follow the outlined Steps below.
 
+![image (17)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/44dc83ec-3d36-4a60-8a40-925bcf6cc17a)
 
+![image (18)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/85334f7f-8dd2-4caf-8a48-974f17d4a825)
+12.You can copy the arn from below.
+
+arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1 
 
 
 
