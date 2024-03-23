@@ -82,9 +82,21 @@ This project focuses on building an automated system for image processing and ma
 
 ![image (10)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/3c5a5e29-9ffa-4c08-983f-1a2c10a346b8)
 
+![image (9)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/14d3377a-c2fc-4be9-b084-5aa2fc3842ac)
 
+5. Now navigate to the Lambda Console and follow the steps below.
+   
+![image (11)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/d45e63b7-b441-4060-b3b3-a16b0a5f98f3)
 
+![image (12)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/8366abb4-1c2f-4212-ab0f-1868a4629752)
 
+![image (13)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/a485018a-2837-4fd1-ac8a-e7b0019b2613)
+
+6. Now we have to trigger the function.
+
+![image (14)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/b4f8a26a-632f-4663-8400-66f923df7775)
+
+![image (15)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/0d9946fc-e8f8-420c-9beb-1b3364e17f67)
 
 
 
