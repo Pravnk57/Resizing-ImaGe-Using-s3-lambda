@@ -146,6 +146,7 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 
 ![22 03 2024_14 22 25_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/3fd23067-5876-4863-ae7a-555fa5246e81)
 
+### It Successfully resized the Image and sent me the Notification.
 
 
 
