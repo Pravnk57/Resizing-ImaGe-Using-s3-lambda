@@ -140,9 +140,11 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 
 ![22 03 2024_13 33 57_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/c86a024b-0368-48e4-88df-f9093efccbc5)
 
-![image (26)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/2fd103e9-d131-4067-84d7-1f253a4128d3)
+![image (27)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/1f3a72c0-dabb-4878-9013-dd381091b357)
 
+![image (28)](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/8f8ec3a0-5e81-4d74-ad40-70e26a930059)
 
+![22 03 2024_14 22 25_REC](https://github.com/Pravnk57/Resizing-ImaGe-Using-s3-lambda/assets/117705143/3fd23067-5876-4863-ae7a-555fa5246e81)
 
 
 
